@@ -2,7 +2,7 @@ Mod Challenge 1: Getting aquainted with modding
 
 Requirements:
 -A custom projectile
---Have a custom dust trail
+--Have a dust trail
 
 -A custom buff / debuff
 
