@@ -1,4 +1,4 @@
-#Welcome to challenge 1 of my mod challenges!
+## Welcome to challenge 1 of my mod challenges!
 
 In this challenge we will be teaching the basics of modding. 
 
@@ -11,61 +11,63 @@ If you would like to expand on this challenge, try your hand at the intermediate
 completing the basic challenge!
 
 
-Challenge 1: Getting aquainted with modding
+### Challenge 1: Getting aquainted with modding
 
 
-Basic Challenge Requirements:
+# Basic Challenge:
 
 Step 1: Creating Objects:
 
-	- Make a custom weapon: Make a regular melee sword. The starter sword generated from tModLoader is a good starting place.
-
-	- Make a custom projectile: The stats can be anything you want.
-
-	- Make a custom buff: The buff can do anything you want. Make sure it effects NPCs.
+    A. Make a custom weapon: Make a regular melee sword. The starter sword generated from tModLoader is a good starting place.
+    B. Make a custom projectile: The stats can be anything you want.
+    C. Make a custom buff: The buff can do anything you want. Make sure it effects NPCs.
 
 
 Step 2: Shooting Projectiles:
 
-	- Make your sword shoot your custom projectile
+	A. Make your sword shoot your custom projectile
 
 
 Step 3: Projectile Inflicted Buffs:
 	
-	- Make your projectile inflict your buff
+	A. Make your projectile inflict your buff
 
 
 Result:
 
-You should now have a sword that shoots a buff / debuff inflicting projectile. While this is basic, I am sure that this helps
-open up possibilities for different weapons or items you could make.
+    A sword that shoots a buff / debuff inflicting projectile.
 
 
 
 
-Intermediate Challenge 
+# Intermediate Challenge 
 
 Step 1: Changing shooting frequency:
 
-	- Find a way to make your sword only shoot a projectile every 2 swings.
+	A. Find a way to make your sword only shoot a projectile every 2 swings.
 
 
 Step 2: Right Click functionality:
 
-	- Make your sword apply the buff to you when right clicking it **WHEN HOLDING IT IN YOUR HAND**
+	A. Make your sword apply the buff to you when right clicking it **WHEN HOLDING IT IN YOUR HAND**
 
 
-Result: Your sword should now shoot once every 2 shots and you can now apply the buff you made to yourself!
+Result: 
+
+    A sword that shoots a buff / debuff inflicting projectile every 2 shots and also can be used to buff yourself with a right click.
 
 
 
 
-Advanced Challenge
+# Advanced Challenge
 
 Step 1: Time-Changing Stats:
 
-	-Find a way to make your sword increase in damage at a rate of 1 damage per second up to a maximum of 8 more damage than the
+	A. Find a way to make your sword increase in damage at a rate of 1 damage per second up to a maximum of 8 more damage than the
 	 sword's base damage.
 
 
-Result: Someone that understands a decent amount about modding items :)
+Result: 
+
+    A. A sword that shoots a buff / debuff inflicting projectile every 2 shots and also can be used to buff yourself with a right click.
+    B. Someone who understands basic item modding :)
