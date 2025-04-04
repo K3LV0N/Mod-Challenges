@@ -2,7 +2,7 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace ModChallengeSolutions.ModChallenges.Challenge1.Solutions.AllLevels
+namespace ModChallengeSolutions.Challenge1.Solutions.AllLevels
 {
     public class MC1_Projectile : ModProjectile
     {

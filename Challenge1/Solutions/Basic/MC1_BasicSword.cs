@@ -1,9 +1,9 @@
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
-using ModChallengeSolutions.ModChallenges.Challenge1.Solutions.AllLevels;
+using ModChallengeSolutions.Challenge1.Solutions.AllLevels;
 
-namespace ModChallengeSolutions.ModChallenges.Challenge1.Solutions.Basic
+namespace ModChallengeSolutions.Challenge1.Solutions.Basic
 { 
 
 	public class MC1_BasicSword : ModItem

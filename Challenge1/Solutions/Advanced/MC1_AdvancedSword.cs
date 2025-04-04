@@ -2,10 +2,10 @@ using Microsoft.Xna.Framework;
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
-using ModChallengeSolutions.ModChallenges.Challenge1.Solutions.AllLevels;
+using ModChallengeSolutions.Challenge1.Solutions.AllLevels;
 using Terraria.DataStructures;
 
-namespace ModChallengeSolutions.ModChallenges.Challenge1.Solutions.Advanced
+namespace ModChallengeSolutions.Challenge1.Solutions.Advanced
 { 
 
 	public class MC1_AdvancedSword : ModItem

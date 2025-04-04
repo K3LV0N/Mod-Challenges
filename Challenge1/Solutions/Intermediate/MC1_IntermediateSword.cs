@@ -1,11 +1,11 @@
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
-using ModChallengeSolutions.ModChallenges.Challenge1.Solutions.AllLevels;
+using ModChallengeSolutions.Challenge1.Solutions.AllLevels;
 using Terraria.DataStructures;
 using Microsoft.Xna.Framework;
 
-namespace ModChallengeSolutions.ModChallenges.Challenge1.Solutions.Intermediate
+namespace ModChallengeSolutions.Challenge1.Solutions.Intermediate
 { 
 
 	public class MC1_IntermediateSword : ModItem
