@@ -1,76 +1,72 @@
-## Welcome to challenge 1 of my mod challenges!
+# 🌟 Mod Challenge 1: Getting Acquainted with Modding 🌟 
 
-In this challenge we will be teaching the basics of modding. 
+Welcome to **Challenge 1** of my mod challenges!
 
-This challenge at the basic level includes:
-	- A Weapon
-	- A projectile
-	- A buff
+In this challenge, we’ll cover the **basics of Terraria modding** using tModLoader.
 
-If you would like to expand on this challenge, try your hand at the intermediate and advanced versions of the challenge after
-completing the basic challenge!
+You’ll be creating:
+- 🗡️ A Weapon
+- 💥 A Projectile
+- 🔮 A Buff
 
+After finishing the **Basic Challenge**, feel free to push yourself with the **Intermediate** and **Advanced** challenges!
 
-### Challenge 1: Getting aquainted with modding
+---
 
+## 🧱 Basic Challenge
 
-# Basic Challenge:
+### Step 1: Creating Objects
+- **A. Make a custom weapon**  
+  Create a regular melee sword. The starter sword from the tModLoader template is a great starting point.
+  
+- **B. Make a custom projectile**  
+  The stats can be anything you like — go wild!
 
-Step 1: Creating Objects:
-
-    A. Make a custom weapon: Make a regular melee sword. The starter sword generated from tModLoader is a good starting place.
-    B. Make a custom projectile: The stats can be anything you want.
-    C. Make a custom buff: The buff can do anything you want. Make sure it effects NPCs.
-
-
-Step 2: Shooting Projectiles:
-
-	A. Make your sword shoot your custom projectile
+- **C. Make a custom buff**  
+  This buff can do anything, but it must affect NPCs.
 
 
-Step 3: Projectile Inflicted Buffs:
-	
-	A. Make your projectile inflict your buff
+### Step 2: Shooting Projectiles
+- **A. Make your sword shoot a projectile**
+  Use your custom projectile for this!
 
 
-Result:
-
-    1. A sword that shoots a buff / debuff inflicting projectile.
-
+### Step 3: Projectile-Inflicted Buffs
+- **A. Make your projectile inflict your custom buff**
 
 
+### ✅ Result
+- A sword that **shoots** a projectile
+- The projectile **inflicts** a buff/debuff
 
-# Intermediate Challenge 
+---
 
-Step 1: Changing shooting frequency:
+## ⚔️ Intermediate Challenge
 
-	A. Find a way to make your sword only shoot a projectile every 2 swings.
+### Step 1: Changing Shooting Frequency
+- **A. Make your sword only shoot a projectile every 2 swings**
 
-
-Step 2: Right Click functionality:
-
-	A. Make your sword apply the buff to you when right clicking it **WHEN HOLDING IT IN YOUR HAND**
-
-
-Result: 
-
-    1. A sword that shoots a buff / debuff inflicting projectile every 2 shots
-    2. Can be used to buff yourself with a right click.
+### Step 2: Right Click Functionality
+- **A. When right-clicking apply the buff to yourself**
+  This applies to when you are holding the sword in your hand (Not right clicking the item in your inventory).
 
 
+### ✅ Result
+- A sword that **shoots** a projectile every **2 swings**
+- The projectile **inflicts** a buff/debuff
+- Can **buff** the player with a right click
 
+---
 
-# Advanced Challenge
+## 🧠 Advanced Challenge
 
-Step 1: Time-Changing Stats:
+### Step 1: Time-Changing Stats
+- **A. Make the sword increase its damage over time**
+  When holding the sword, **the damage will increase** by **1 damage per second** up to a max of **8 extra damage**.
 
-	A. Find a way to make your sword increase in damage at a rate of 1 damage per second up to a maximum of 8 more damage than the
-	 sword's base damage.
-
-
-Result: 
-
-    1. A sword that shoots a buff / debuff inflicting projectile every 2 shots
-    2. Can be used to buff yourself with a right click.
-    3. Increases in damage as you hold it
-    4. Someone who understands basic item modding :)
+### ✅ Result
+- A sword that **shoots** a projectile every **2 swings**
+- The projectile **inflicts** a buff/debuff
+- Can **buff** the player with a right click
+- **Increases in power** the longer you hold it
+- A modder adept at modding items 🌟 
