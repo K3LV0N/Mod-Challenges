@@ -15,4 +15,4 @@ you’re welcome to **jump in wherever you'd like**! Each challenge folder inclu
 
 ---
 
-Happy modding, and let’s build something awesome together! 🔧🌟
+Happy modding!!! 🔧🌟
