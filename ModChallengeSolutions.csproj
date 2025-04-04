@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<!-- Import tModLoader mod properties -->
+	<Import Project="..\tModLoader.targets" />
+
+	<!-- General -->
+	<PropertyGroup>
+		
+	</PropertyGroup>
+	<ItemGroup>
+	  <None Remove="ModChallenges\Challenge1\Challenge1.txt" />
+	  <None Remove="ModChallenges\Challenge1\hints\advanced\Hint1.txt" />
+	  <None Remove="ModChallenges\Challenge1\hints\advanced\Hint2.txt" />
+	  <None Remove="ModChallenges\Challenge1\hints\advanced\Hint3.txt" />
+	  <None Remove="ModChallenges\Challenge1\hints\basic\Step1_Hint.txt" />
+	  <None Remove="ModChallenges\Challenge1\hints\basic\Step2_Hint.txt" />
+	  <None Remove="ModChallenges\Challenge1\hints\basic\Step3_Hint.txt" />
+	  <None Remove="ModChallenges\Challenge1\hints\Hints.txt" />
+	  <None Remove="ModChallenges\Challenge1\hints\intermediate\Step1_Hint.txt" />
+	  <None Remove="ModChallenges\Challenge1\hints\intermediate\Step2_Hint.txt" />
+	  <None Remove="ModChallenges\Challenge1\Solutions\Advanced\MC1_AdvancedSword.png" />
+	  <None Remove="ModChallenges\Challenge1\Solutions\Basic\MC1_BasicSword.png" />
+	  <None Remove="ModChallenges\Challenge1\Solutions\Basic\MC1_Buff.png" />
+	  <None Remove="ModChallenges\Challenge1\Solutions\Basic\MC1_Projectile.png" />
+	  <None Remove="ModChallenges\Challenge1\solutions\Solutions.txt" />
+	</ItemGroup>
+
+	<!-- References -->
+
+</Project>

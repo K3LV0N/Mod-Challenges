@@ -1,0 +1,5 @@
+1. Right clicking is called 'alt function' in Terraria.
+
+2. Right clicking is typically disabled for items, so we need to call a method in order to enable it.
+
+3. How can we check to see if the player performed a right click?

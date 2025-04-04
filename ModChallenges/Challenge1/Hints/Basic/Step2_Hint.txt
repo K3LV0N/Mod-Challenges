@@ -1,0 +1,4 @@
+1. There must be a way we can set a value in SetDefaults() to make our item shoot a projectile.
+
+2. You can access a modded projectile as such:
+    ModContent.ProjectileType<ProjectileClassName>()

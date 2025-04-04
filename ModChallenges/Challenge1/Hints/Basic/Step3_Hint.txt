@@ -1,0 +1,5 @@
+1. We need the projectile to apply a buff when it hits an NPC. Is there a function we can call when the projectile hits something?
+
+2. AddBuff() is a function that exists for Player and NPC objects!
+
+3. Terraria plays in 60 ticks per second, be careful not to set the buff to something absurdly short or long!

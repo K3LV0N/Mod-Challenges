@@ -1,0 +1,4 @@
+1. One shot every 2 swings means 1 in every 2. A flip-flopping boolean is true once every 2 changes.
+
+2. While there is a method in the ModItem class that can check if an item can shoot, it does this multiple
+   times per item usage (I think). Instead of using CanShoot(), can we modify Shoot() directly?

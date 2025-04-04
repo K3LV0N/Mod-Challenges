@@ -1,0 +1,1 @@
+You cannot change Item.damage directly. This will break the item. We must modify the damage in a special method.

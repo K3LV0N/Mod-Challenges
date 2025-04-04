@@ -1,0 +1,3 @@
+Within the folders here you will find solutions to the levels of challenge 1.
+
+The folder labled 'All Levels' contains solutions for objects that are not changed in all 3 levels (the buff and projectile)

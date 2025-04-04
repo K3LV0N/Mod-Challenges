@@ -1,0 +1,28 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+
+	MC1_AdvancedSword: {
+		DisplayName: MC1 Advanced Sword
+		Tooltip: "The advanced sword"
+	}
+
+	MC1_BasicSword: {
+		DisplayName: MC1 Basic Sword
+		Tooltip: "The basic sword"
+	}
+
+	MC1_IntermediateSword: {
+		DisplayName: MC1 Intermediate Sword
+		Tooltip: "The intermediate sword"
+	}
+}
+
+Buffs: {
+	MC1_Buff: {
+		DisplayName: MC1 Buff
+		Description: Increased defense
+	}
+}
+
+Projectiles.MC1_Projectile.DisplayName: MC1 Projectile

@@ -1,0 +1,11 @@
+1. Custom projectiles do not need to have their own intense AI! You could always reuse pre-existing AI's such as the arrow AI.
+
+
+2. Unlike projectiles and items, buffs don't have a SetDefaults() method. Changes to the player or NPCs need to be applied every frame.
+   Where can we **update** values every frame?
+
+3. Weapons need to be craftable, how can we add a recipe for the weapon?
+
+
+
+Remember, tModLoader's example mod and their documentation is your friend!
