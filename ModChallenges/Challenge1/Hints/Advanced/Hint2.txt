@@ -1,3 +1,0 @@
-To keep track of our damage, we need a way to count the ticks that the item has been held for. There is a method for this.
-
-The method is not named Update().
