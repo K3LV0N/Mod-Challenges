@@ -35,7 +35,7 @@ Step 3: Projectile Inflicted Buffs:
 
 Result:
 
-    A sword that shoots a buff / debuff inflicting projectile.
+    1. A sword that shoots a buff / debuff inflicting projectile.
 
 
 
@@ -54,7 +54,8 @@ Step 2: Right Click functionality:
 
 Result: 
 
-    A sword that shoots a buff / debuff inflicting projectile every 2 shots and also can be used to buff yourself with a right click.
+    1. A sword that shoots a buff / debuff inflicting projectile every 2 shots
+    2. Can be used to buff yourself with a right click.
 
 
 
@@ -69,5 +70,7 @@ Step 1: Time-Changing Stats:
 
 Result: 
 
-    A. A sword that shoots a buff / debuff inflicting projectile every 2 shots and also can be used to buff yourself with a right click.
-    B. Someone who understands basic item modding :)
+    1. A sword that shoots a buff / debuff inflicting projectile every 2 shots
+    2. Can be used to buff yourself with a right click.
+    3. Increases in damage as you hold it
+    4. Someone who understands basic item modding :)
